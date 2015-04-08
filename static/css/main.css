@@ -8,3 +8,4 @@ table img               { max-height: 50px; max-width:300px; }
 table td.transparent    { background: #E8E8E8; }
 table td                { vertical-align: middle; padding:5px  20px ; border: 1px solid #ccc; }
 table td span           { color: #fff; background: #FD2758; padding:1px 6px; border-radius: 2px; float:right; font-size:12px;}
+table td span.secondary { background: orange;}
